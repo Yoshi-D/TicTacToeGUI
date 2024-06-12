@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
 public class TicTacToe implements ActionListener{
-    //super("TicTacToe");
+
     Random random=new Random();
     JFrame frame = new JFrame("Tic Tac Toe");
     JPanel titlePanel = new JPanel();
